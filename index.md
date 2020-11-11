@@ -10,3 +10,4 @@
 
 ## contact us
 email: {{ site.email}}
+twitter: {{site.twitter}}
